@@ -3,7 +3,7 @@
 ## Description
 Task Manager is a full-stack web application that allows users to create, update, and delete tasks. It is built using **React.js** for the frontend, **Spring Boot (Java)** for the backend, and **Node.js** as the API gateway.
 
-## Features
+### Features
 - User authentication (JWT-based)
 - Task CRUD operations (Create, Read, Update, Delete)
 - Role-based access control (Admin/User)
